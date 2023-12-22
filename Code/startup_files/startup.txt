@@ -1,0 +1,30 @@
+
+               ███████    ██████ ██   ██ ███████ ██	 ██
+               ██   ██   ██	 ██   ██ ██	 ██	 ██
+               ███████    █████  ███████ █████	 ██	 ██
+               ██             ██ ██   ██ ██	 ██	 ██
+               ██        ██████  ██   ██ ███████ ███████ ███████
+
+Command Help
+============
+    "createdir",
+    "removedir",
+    "rename",
+    "findme",
+    "fish",
+    "memusage",
+    "terminate",
+    "spy",
+    "closeter",
+    "panda",
+    "cls",
+    "closeall",
+    "removefile",
+    "list",
+    "play",
+    "jokes",
+    "factor",
+    "multiply",
+    "square",
+    "squareroot",
+    "sum"

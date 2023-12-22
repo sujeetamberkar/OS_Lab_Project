@@ -1,0 +1,5 @@
+sudo apt-get install sl
+sudo apt install libaa-bin
+sudo apt install fortune
+
+
